@@ -1,0 +1,7 @@
+Proyecto para generar soles, planetas y otros cuerpos de sistemas solares en UNITY 3D de forma procedural.
+
+La finalidad es generar un universo en dónde un sistema solar es un servidor y estará conectado con los otros sistemas pudiendo viajar de uno a otro.
+
+Cada servidor o sistema solar, podrá contener una serie de cuerpos celestes, buscando siempre, la realidad.
+
+Aquí se muestra una lista de posibles recursos para el desarroyo.

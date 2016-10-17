@@ -5,3 +5,7 @@ La finalidad es generar un universo en dónde un sistema solar es un servidor y 
 Cada servidor o sistema solar, podrá contener una serie de cuerpos celestes, buscando siempre, la realidad.
 
 Aquí se muestra una lista de posibles recursos para el desarroyo.
+
+http://answers.unity3d.com/questions/303901/example-of-procedural-planet-generation.html
+http://code-phi.com/infinite-terrain-generation-in-unity-3d/
+https://www.reddit.com/r/gamedev/comments/104jbs/spherical_world_procedural_terrain_project_in/
